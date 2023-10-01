@@ -1,4 +1,4 @@
-package repetição;
+package repeticao;
 
 import java.util.Scanner;
 

@@ -13,9 +13,9 @@ public class Atv01 {
         int media = (primeiraNota + segundaNota) / 2;
 
         if (media >= 6){
-            System.out.println("Meus parabéns");
+            System.out.println("Meus parabéns, você está aprovado!! :) ");
         }else {
-            System.out.println("Você não passou. Estude um pouco mais!");
+            System.out.println("Você não passou. Estude um pouco mais! :( ");
         }
     }
 }
